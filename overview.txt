@@ -1,0 +1,8 @@
+Check version of node and npm using terminal of Typescript folder 
+  node -v =>22.19.0
+  npm -v =>10.9.3
+
+=>ex: create test.js and add 
+let fname='test';
+fname=10;
+does not give any issues here because JavaScript is a dynamically typed language.
