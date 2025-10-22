@@ -6,3 +6,7 @@ Check version of node and npm using terminal of Typescript folder
 let fname='test';
 fname=10;
 does not give any issues here because JavaScript is a dynamically typed language.
+
+ng --version ->20.3.3
+
+Heading to create a new workspace and git naming hotelinventory 
